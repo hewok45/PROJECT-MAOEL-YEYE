@@ -1,4 +1,4 @@
-# PROJECT-MAOEL-YEYE
+
 # 📸 Pothooo Booth Maoel
 
 > 🎨 Frame foto & template photobooth yang lucu, simpel, dan estetik.
