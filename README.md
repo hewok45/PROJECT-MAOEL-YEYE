@@ -90,14 +90,3 @@ Warna utama yang digunakan antara lain:
 - 💗 Pink
 - 💙 Sky Blue
 
----
-
-## 🚀 Cara Menjalankan Website
-
-### Secara lokal
-
-1. Download atau clone repository.
-2. Buka file:
-
-```text
-index.html
